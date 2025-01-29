@@ -1,8 +1,10 @@
 # Steel Alloy HRC
 
-Web API that returns a prediction of HRC measure based on a given steel alloy and the templing temperature applied
+Prediction of HRC measure based on a given steel alloy and the templing temperature applied
 
 ## Challenge
+
+The objective of this project is to put into practice the knowledge acquired for the treatment and cleaning of data for use in regression models. 
 
 ### Problem Statement
 
@@ -12,7 +14,7 @@ Designing an effective heat treatment cycle involves a deep understanding of a m
 
 This dataset serves as a foundation for developing machine learning models that can predict heat treatment outcomes, helping to optimize parameters for target hardness and other material properties.
 
-This personal project, which combines cutting-edge AI techniques with metallurgical expertise, aims to accelerate the development of smarter, more efficient heat treatment solutions.
+This personal project, which combines  AI techniques with metallurgical expertise, aims to accelerate the development of smarter, more efficient heat treatment solutions.
 
 
 ## References
@@ -24,4 +26,4 @@ Below are the key references used in this project:
 
 ## Contributors
 
-* Colomé Sanz, Ferran ([ferrancolomsanz@gmail.com](mailto:ferrancolomsanz@gmail.com))
+* Colomé Sanz, Ferran  ([ferrancolomsanz@gmail.com](mailto:ferrancolomsanz@gmail.com))
